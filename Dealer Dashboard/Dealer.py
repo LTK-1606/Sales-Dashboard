@@ -408,19 +408,20 @@ def dealer_dashboard():
 
     def run_dash():
         app.run_server(port=8050)
-        print("Starting application...")
-        dash_thread = threading.Thread(target=run_dash)
-        dash_thread.start()
-        
-        monitor = get_monitors()[0]
-        width, height = monitor.width, monitor.height
-        try:
-            # Start the webview window with Dash app URL
-            webview.create_window("Dealer Activity Analysis", "http://127.0.0.1:8050",  width=width, height=height, resizable=True)
-            webview.start()
-        except Exception as e:
-            print(f"Error creating window: {str(e)}")
-            raise
-    
+
+    print("Starting application...")
+    dash_thread = threading.Thread(target=run_dash)
+    dash_thread.start()
+
+    monitor = get_monitors()[0]
+    width, height = monitor.width, monitor.height
+    try:
+        # Start the webview window with Dash app URL
+        webview.create_window("Dealer Activity Analysis", "http://127.0.0.1:8050",  width=width, height=height, resizable=True)
+        webview.start()
+    except Exception as e:
+        print(f"Error creating window: {str(e)}")
+        raise
+
 if __name__ == '__main__':
     dealer_dashboard()
