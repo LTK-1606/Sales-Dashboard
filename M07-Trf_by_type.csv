@@ -1,0 +1,513 @@
+month,type,numbers
+2014-01,Cars,5365
+2014-01,Motorcycles,3991
+2014-01,Goods and Other Vehicles,1270
+2014-01,Buses,144
+2014-02,Cars,4352
+2014-02,Motorcycles,3284
+2014-02,Goods and Other Vehicles,1348
+2014-02,Buses,98
+2014-03,Cars,5721
+2014-03,Motorcycles,3529
+2014-03,Goods and Other Vehicles,2217
+2014-03,Buses,161
+2014-04,Cars,5695
+2014-04,Motorcycles,3407
+2014-04,Goods and Other Vehicles,1558
+2014-04,Buses,196
+2014-05,Cars,5272
+2014-05,Motorcycles,3223
+2014-05,Goods and Other Vehicles,1341
+2014-05,Buses,143
+2014-06,Cars,5304
+2014-06,Motorcycles,3146
+2014-06,Goods and Other Vehicles,1425
+2014-06,Buses,152
+2014-07,Cars,6036
+2014-07,Motorcycles,3562
+2014-07,Goods and Other Vehicles,1955
+2014-07,Buses,172
+2014-08,Cars,5825
+2014-08,Motorcycles,3330
+2014-08,Goods and Other Vehicles,1960
+2014-08,Buses,156
+2014-09,Cars,6336
+2014-09,Motorcycles,3626
+2014-09,Goods and Other Vehicles,1615
+2014-09,Buses,132
+2014-10,Cars,6200
+2014-10,Motorcycles,3231
+2014-10,Goods and Other Vehicles,1861
+2014-10,Buses,159
+2014-11,Cars,5714
+2014-11,Motorcycles,2973
+2014-11,Goods and Other Vehicles,1910
+2014-11,Buses,175
+2014-12,Cars,6389
+2014-12,Motorcycles,3440
+2014-12,Goods and Other Vehicles,1615
+2014-12,Buses,223
+2015-01,Cars,7306
+2015-01,Motorcycles,3616
+2015-01,Goods and Other Vehicles,1560
+2015-01,Buses,149
+2015-02,Cars,5399
+2015-02,Motorcycles,2778
+2015-02,Goods and Other Vehicles,1164
+2015-02,Buses,119
+2015-03,Cars,7784
+2015-03,Motorcycles,3738
+2015-03,Goods and Other Vehicles,2178
+2015-03,Buses,191
+2015-04,Cars,7928
+2015-04,Motorcycles,3580
+2015-04,Goods and Other Vehicles,1853
+2015-04,Buses,156
+2015-05,Cars,7494
+2015-05,Motorcycles,3252
+2015-05,Goods and Other Vehicles,1406
+2015-05,Buses,201
+2015-06,Cars,7786
+2015-06,Motorcycles,3376
+2015-06,Goods and Other Vehicles,1522
+2015-06,Buses,170
+2015-07,Cars,8652
+2015-07,Motorcycles,3506
+2015-07,Goods and Other Vehicles,1872
+2015-07,Buses,136
+2015-08,Cars,7652
+2015-08,Motorcycles,3207
+2015-08,Goods and Other Vehicles,1961
+2015-08,Buses,128
+2015-09,Cars,8373
+2015-09,Motorcycles,3459
+2015-09,Goods and Other Vehicles,1913
+2015-09,Buses,160
+2015-10,Cars,8561
+2015-10,Motorcycles,3545
+2015-10,Goods and Other Vehicles,2009
+2015-10,Buses,172
+2015-11,Cars,8060
+2015-11,Motorcycles,3197
+2015-11,Goods and Other Vehicles,1563
+2015-11,Buses,151
+2015-12,Cars,9295
+2015-12,Motorcycles,3587
+2015-12,Goods and Other Vehicles,1724
+2015-12,Buses,182
+2016-01,Cars,9281
+2016-01,Motorcycles,3524
+2016-01,Goods and Other Vehicles,1652
+2016-01,Buses,166
+2016-02,Cars,7218
+2016-02,Motorcycles,2962
+2016-02,Goods and Other Vehicles,1271
+2016-02,Buses,105
+2016-03,Cars,10697
+2016-03,Motorcycles,3844
+2016-03,Goods and Other Vehicles,2200
+2016-03,Buses,180
+2016-04,Cars,9819
+2016-04,Motorcycles,3752
+2016-04,Goods and Other Vehicles,1943
+2016-04,Buses,209
+2016-05,Cars,10028
+2016-05,Motorcycles,3559
+2016-05,Goods and Other Vehicles,1454
+2016-05,Buses,121
+2016-06,Cars,10721
+2016-06,Motorcycles,3711
+2016-06,Goods and Other Vehicles,1760
+2016-06,Buses,177
+2016-07,Cars,9867
+2016-07,Motorcycles,3592
+2016-07,Goods and Other Vehicles,1986
+2016-07,Buses,138
+2016-08,Cars,9767
+2016-08,Motorcycles,3731
+2016-08,Goods and Other Vehicles,1788
+2016-08,Buses,275
+2016-09,Cars,8897
+2016-09,Motorcycles,3479
+2016-09,Goods and Other Vehicles,1650
+2016-09,Buses,164
+2016-10,Cars,9033
+2016-10,Motorcycles,3388
+2016-10,Goods and Other Vehicles,1695
+2016-10,Buses,136
+2016-11,Cars,9150
+2016-11,Motorcycles,3387
+2016-11,Goods and Other Vehicles,1497
+2016-11,Buses,161
+2016-12,Cars,8927
+2016-12,Motorcycles,3659
+2016-12,Goods and Other Vehicles,1728
+2016-12,Buses,255
+2017-01,Cars,9510
+2017-01,Motorcycles,3212
+2017-01,Goods and Other Vehicles,1522
+2017-01,Buses,168
+2017-02,Cars,8247
+2017-02,Motorcycles,3483
+2017-02,Goods and Other Vehicles,1770
+2017-02,Buses,148
+2017-03,Cars,10903
+2017-03,Motorcycles,4231
+2017-03,Goods and Other Vehicles,4281
+2017-03,Buses,279
+2017-04,Cars,9353
+2017-04,Motorcycles,3508
+2017-04,Goods and Other Vehicles,1954
+2017-04,Buses,154
+2017-05,Cars,10350
+2017-05,Motorcycles,3668
+2017-05,Goods and Other Vehicles,1110
+2017-05,Buses,82
+2017-06,Cars,9554
+2017-06,Motorcycles,3818
+2017-06,Goods and Other Vehicles,1291
+2017-06,Buses,127
+2017-07,Cars,9260
+2017-07,Motorcycles,4079
+2017-07,Goods and Other Vehicles,1939
+2017-07,Buses,158
+2017-08,Cars,9436
+2017-08,Motorcycles,3910
+2017-08,Goods and Other Vehicles,2017
+2017-08,Buses,137
+2017-09,Cars,8112
+2017-09,Motorcycles,3744
+2017-09,Goods and Other Vehicles,1438
+2017-09,Buses,135
+2017-10,Cars,8476
+2017-10,Motorcycles,3340
+2017-10,Goods and Other Vehicles,1481
+2017-10,Buses,110
+2017-11,Cars,9775
+2017-11,Motorcycles,3824
+2017-11,Goods and Other Vehicles,1682
+2017-11,Buses,136
+2017-12,Cars,9004
+2017-12,Motorcycles,4019
+2017-12,Goods and Other Vehicles,1447
+2017-12,Buses,167
+2018-01,Cars,9543
+2018-01,Motorcycles,3743
+2018-01,Goods and Other Vehicles,1432
+2018-01,Buses,125
+2018-02,Cars,6478
+2018-02,Motorcycles,2900
+2018-02,Goods and Other Vehicles,1003
+2018-02,Buses,124
+2018-03,Cars,9028
+2018-03,Motorcycles,3976
+2018-03,Goods and Other Vehicles,1683
+2018-03,Buses,168
+2018-04,Cars,9156
+2018-04,Motorcycles,4104
+2018-04,Goods and Other Vehicles,3605
+2018-04,Buses,161
+2018-05,Cars,9569
+2018-05,Motorcycles,4377
+2018-05,Goods and Other Vehicles,1614
+2018-05,Buses,161
+2018-06,Cars,9393
+2018-06,Motorcycles,4187
+2018-06,Goods and Other Vehicles,1659
+2018-06,Buses,120
+2018-07,Cars,9111
+2018-07,Motorcycles,4350
+2018-07,Goods and Other Vehicles,1852
+2018-07,Buses,183
+2018-08,Cars,9009
+2018-08,Motorcycles,4164
+2018-08,Goods and Other Vehicles,1681
+2018-08,Buses,189
+2018-09,Cars,8334
+2018-09,Motorcycles,4283
+2018-09,Goods and Other Vehicles,1415
+2018-09,Buses,132
+2018-10,Cars,8897
+2018-10,Motorcycles,4354
+2018-10,Goods and Other Vehicles,1802
+2018-10,Buses,169
+2018-11,Cars,8211
+2018-11,Motorcycles,4797
+2018-11,Goods and Other Vehicles,1584
+2018-11,Buses,158
+2018-12,Cars,8816
+2018-12,Motorcycles,5132
+2018-12,Goods and Other Vehicles,1372
+2018-12,Buses,164
+2019-01,Cars,10126
+2019-01,Motorcycles,5323
+2019-01,Goods and Other Vehicles,1598
+2019-01,Buses,172
+2019-02,Cars,6261
+2019-02,Motorcycles,4159
+2019-02,Goods and Other Vehicles,1182
+2019-02,Buses,89
+2019-03,Cars,9217
+2019-03,Motorcycles,5062
+2019-03,Goods and Other Vehicles,1944
+2019-03,Buses,117
+2019-04,Cars,9017
+2019-04,Motorcycles,4738
+2019-04,Goods and Other Vehicles,1875
+2019-04,Buses,106
+2019-05,Cars,8810
+2019-05,Motorcycles,4791
+2019-05,Goods and Other Vehicles,1736
+2019-05,Buses,128
+2019-06,Cars,6787
+2019-06,Motorcycles,4617
+2019-06,Goods and Other Vehicles,1190
+2019-06,Buses,127
+2019-07,Cars,7434
+2019-07,Motorcycles,5487
+2019-07,Goods and Other Vehicles,1463
+2019-07,Buses,120
+2019-08,Cars,6808
+2019-08,Motorcycles,4712
+2019-08,Goods and Other Vehicles,1364
+2019-08,Buses,133
+2019-09,Cars,7194
+2019-09,Motorcycles,4237
+2019-09,Goods and Other Vehicles,1320
+2019-09,Buses,109
+2019-10,Cars,7225
+2019-10,Motorcycles,4322
+2019-10,Goods and Other Vehicles,1492
+2019-10,Buses,131
+2019-11,Cars,6461
+2019-11,Motorcycles,4313
+2019-11,Goods and Other Vehicles,1297
+2019-11,Buses,128
+2019-12,Cars,6978
+2019-12,Motorcycles,4246
+2019-12,Goods and Other Vehicles,1129
+2019-12,Buses,146
+2020-01,Cars,7182
+2020-01,Motorcycles,4133
+2020-01,Goods and Other Vehicles,1003
+2020-01,Buses,104
+2020-02,Cars,6582
+2020-02,Motorcycles,4692
+2020-02,Goods and Other Vehicles,1462
+2020-02,Buses,127
+2020-03,Cars,7183
+2020-03,Motorcycles,5092
+2020-03,Goods and Other Vehicles,1974
+2020-03,Buses,156
+2020-04,Cars,3075
+2020-04,Motorcycles,2634
+2020-04,Goods and Other Vehicles,718
+2020-04,Buses,79
+2020-05,Cars,2187
+2020-05,Motorcycles,2221
+2020-05,Goods and Other Vehicles,462
+2020-05,Buses,60
+2020-06,Cars,5940
+2020-06,Motorcycles,3467
+2020-06,Goods and Other Vehicles,1500
+2020-06,Buses,134
+2020-07,Cars,8061
+2020-07,Motorcycles,4494
+2020-07,Goods and Other Vehicles,2002
+2020-07,Buses,135
+2020-08,Cars,8231
+2020-08,Motorcycles,4464
+2020-08,Goods and Other Vehicles,2043
+2020-08,Buses,154
+2020-09,Cars,8236
+2020-09,Motorcycles,4180
+2020-09,Goods and Other Vehicles,2477
+2020-09,Buses,181
+2020-10,Cars,8151
+2020-10,Motorcycles,4323
+2020-10,Goods and Other Vehicles,2471
+2020-10,Buses,205
+2020-11,Cars,7420
+2020-11,Motorcycles,4198
+2020-11,Goods and Other Vehicles,1835
+2020-11,Buses,139
+2020-12,Cars,8229
+2020-12,Motorcycles,4972
+2020-12,Goods and Other Vehicles,1907
+2020-12,Buses,220
+2021-01,Cars,7985
+2021-01,Motorcycles,4812
+2021-01,Goods and Other Vehicles,2111
+2021-01,Buses,135
+2021-02,Cars,6483
+2021-02,Motorcycles,4034
+2021-02,Goods and Other Vehicles,1963
+2021-02,Buses,158
+2021-03,Cars,9173
+2021-03,Motorcycles,5437
+2021-03,Goods and Other Vehicles,2403
+2021-03,Buses,222
+2021-04,Cars,9067
+2021-04,Motorcycles,5077
+2021-04,Goods and Other Vehicles,2236
+2021-04,Buses,210
+2021-05,Cars,7664
+2021-05,Motorcycles,4654
+2021-05,Goods and Other Vehicles,1904
+2021-05,Buses,182
+2021-06,Cars,7801
+2021-06,Motorcycles,4795
+2021-06,Goods and Other Vehicles,2667
+2021-06,Buses,211
+2021-07,Cars,7891
+2021-07,Motorcycles,4883
+2021-07,Goods and Other Vehicles,2421
+2021-07,Buses,201
+2021-08,Cars,7400
+2021-08,Motorcycles,4811
+2021-08,Goods and Other Vehicles,2294
+2021-08,Buses,206
+2021-09,Cars,8151
+2021-09,Motorcycles,4721
+2021-09,Goods and Other Vehicles,2215
+2021-09,Buses,215
+2021-10,Cars,8307
+2021-10,Motorcycles,4585
+2021-10,Goods and Other Vehicles,2324
+2021-10,Buses,183
+2021-11,Cars,7743
+2021-11,Motorcycles,4370
+2021-11,Goods and Other Vehicles,2039
+2021-11,Buses,271
+2021-12,Cars,8381
+2021-12,Motorcycles,4847
+2021-12,Goods and Other Vehicles,2534
+2021-12,Buses,401
+2022-01,Cars,8368
+2022-01,Motorcycles,4780
+2022-01,Goods and Other Vehicles,2082
+2022-01,Buses,221
+2022-02,Cars,6432
+2022-02,Motorcycles,3967
+2022-02,Goods and Other Vehicles,1784
+2022-02,Buses,193
+2022-03,Cars,9229
+2022-03,Motorcycles,5315
+2022-03,Goods and Other Vehicles,3123
+2022-03,Buses,279
+2022-04,Cars,8469
+2022-04,Motorcycles,5185
+2022-04,Goods and Other Vehicles,2765
+2022-04,Buses,277
+2022-05,Cars,7360
+2022-05,Motorcycles,4676
+2022-05,Goods and Other Vehicles,2103
+2022-05,Buses,246
+2022-06,Cars,7622
+2022-06,Motorcycles,5212
+2022-06,Goods and Other Vehicles,2378
+2022-06,Buses,235
+2022-07,Cars,7297
+2022-07,Motorcycles,5014
+2022-07,Goods and Other Vehicles,2605
+2022-07,Buses,203
+2022-08,Cars,7723
+2022-08,Motorcycles,5058
+2022-08,Goods and Other Vehicles,2707
+2022-08,Buses,231
+2022-09,Cars,7281
+2022-09,Motorcycles,4612
+2022-09,Goods and Other Vehicles,2931
+2022-09,Buses,260
+2022-10,Cars,7140
+2022-10,Motorcycles,4628
+2022-10,Goods and Other Vehicles,2439
+2022-10,Buses,246
+2022-11,Cars,7096
+2022-11,Motorcycles,4580
+2022-11,Goods and Other Vehicles,2821
+2022-11,Buses,279
+2022-12,Cars,7221
+2022-12,Motorcycles,4515
+2022-12,Goods and Other Vehicles,2205
+2022-12,Buses,327
+2023-01,Cars,5910
+2023-01,Motorcycles,3760
+2023-01,Goods and Other Vehicles,1343
+2023-01,Buses,221
+2023-02,Cars,7747
+2023-02,Motorcycles,4899
+2023-02,Goods and Other Vehicles,2763
+2023-02,Buses,329
+2023-03,Cars,9559
+2023-03,Motorcycles,5203
+2023-03,Goods and Other Vehicles,3690
+2023-03,Buses,504
+2023-04,Cars,8458
+2023-04,Motorcycles,4332
+2023-04,Goods and Other Vehicles,1374
+2023-04,Buses,210
+2023-05,Cars,8657
+2023-05,Motorcycles,5173
+2023-05,Goods and Other Vehicles,1636
+2023-05,Buses,159
+2023-06,Cars,7534
+2023-06,Motorcycles,4467
+2023-06,Goods and Other Vehicles,1917
+2023-06,Buses,189
+2023-07,Cars,8138
+2023-07,Motorcycles,4692
+2023-07,Goods and Other Vehicles,1936
+2023-07,Buses,149
+2023-08,Cars,8446
+2023-08,Motorcycles,4723
+2023-08,Goods and Other Vehicles,2082
+2023-08,Buses,162
+2023-09,Cars,7560
+2023-09,Motorcycles,4555
+2023-09,Goods and Other Vehicles,1783
+2023-09,Buses,197
+2023-10,Cars,8193
+2023-10,Motorcycles,4674
+2023-10,Goods and Other Vehicles,2173
+2023-10,Buses,233
+2023-11,Cars,7673
+2023-11,Motorcycles,4127
+2023-11,Goods and Other Vehicles,1501
+2023-11,Buses,183
+2023-12,Cars,7201
+2023-12,Motorcycles,4839
+2023-12,Goods and Other Vehicles,1540
+2023-12,Buses,189
+2024-01,Cars,8495
+2024-01,Motorcycles,4723
+2024-01,Goods and Other Vehicles,1544
+2024-01,Buses,158
+2024-02,Cars,7221
+2024-02,Motorcycles,3856
+2024-02,Goods and Other Vehicles,1331
+2024-02,Buses,131
+2024-03,Cars,9066
+2024-03,Motorcycles,4776
+2024-03,Goods and Other Vehicles,2475
+2024-03,Buses,216
+2024-04,Cars,9826
+2024-04,Motorcycles,4485
+2024-04,Goods and Other Vehicles,2262
+2024-04,Buses,158
+2024-05,Cars,9121
+2024-05,Motorcycles,4495
+2024-05,Goods and Other Vehicles,2050
+2024-05,Buses,133
+2024-06,Cars,7561
+2024-06,Motorcycles,4250
+2024-06,Goods and Other Vehicles,2213
+2024-06,Buses,142
+2024-07,Cars,8961
+2024-07,Motorcycles,4949
+2024-07,Goods and Other Vehicles,2583
+2024-07,Buses,164
+2024-08,Cars,8554
+2024-08,Motorcycles,4910
+2024-08,Goods and Other Vehicles,1982
+2024-08,Buses,143
