@@ -10,18 +10,28 @@ def sanitize_sheet_name(name):
     return sanitized_name[:31]
 
 def main_consolidate_format_data():
-    
+
     if getattr(sys, 'frozen', False):
         # When running as a bundled executable (e.g., PyInstaller)
         script_dir = os.path.dirname(sys.executable)
-        
+
     else:
         # When running as a script
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        
+
     # Path to your Excel file
     input_file_path = os.path.join(script_dir, "sales_dashboard (new).xlsx")
     output_file_path = os.path.join(script_dir, "formatted_sales_dashboard (new).xlsx")
+
+    if not os.path.exists(input_file_path):
+        print("Data is up to date. No new file to process.")
+        # Create a new, empty workbook
+        output_wb = Workbook()
+        # Save the empty workbook
+        output_empty_file_path = os.path.join(script_dir, "consolidated_&_formatted_data (new).xlsx")
+        output_wb.save(output_empty_file_path)
+        print(f"Empty Excel file saved at {output_empty_file_path}")
+        return  # Exit the function after saving the empty file
 
     # Load the original workbook
     input_wb1 = load_workbook(input_file_path)
@@ -77,7 +87,7 @@ def main_consolidate_format_data():
                 for col_idx in range(4, len(column_headers) + 4):  # Start from 4 to skip "Week Start" and "Week End"
                     cell_value = input_sheet.cell(row=row_idx, column=col_idx).value
                     data_row.append(cell_value)
-                
+
                 # Append the date and data row to the corresponding sheet
                 sheets_dict[row_header].append([date_range] + data_row)
 
